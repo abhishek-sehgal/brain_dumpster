@@ -1,0 +1,18 @@
+{
+  "2025-05-06": {
+    "goals": [
+      {
+        "text": "Complete some work",
+        "done": false
+      },
+      {
+        "text": "Rest a little",
+        "done": false
+      },
+      {
+        "text": "Go to sleep",
+        "done": false
+      }
+    ]
+  }
+}
